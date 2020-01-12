@@ -13,6 +13,8 @@ public class Ajan extends AppCompatActivity {
     TextView ajan;
     MaterialButton ajan_ans,ajan_dua;
 
+    // new comment to test git
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
