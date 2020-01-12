@@ -32,6 +32,8 @@ public class Ajan extends AppCompatActivity {
             }
         });
 
+        //Here is the second change in this file.
+
         ajan_dua.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
