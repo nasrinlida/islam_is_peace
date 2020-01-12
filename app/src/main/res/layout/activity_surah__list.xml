@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Surah_List">
+
+    <TextView
+        android:id="@+id/surah"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="75dp"
+        android:fontFamily="@font/noto_serif"
+        android:gravity="center"
+        android:text="Surah/সূরা"
+        android:textColor="#111111"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/fatiha"
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="95dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Surah Fatiha/ফাতিহা"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/surah"
+        app:layout_constraintStart_toStartOf="@+id/surah"
+        app:layout_constraintTop_toBottomOf="@+id/surah" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/ikhlas"
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Surah Ikhlas/ইখলাস"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/fatiha"
+        app:layout_constraintStart_toStartOf="@+id/fatiha"
+        app:layout_constraintTop_toBottomOf="@+id/fatiha" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/kausar"
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Surah Kausar/কাউসার"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/ikhlas"
+        app:layout_constraintStart_toStartOf="@+id/ikhlas"
+        app:layout_constraintTop_toBottomOf="@+id/ikhlas" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/nas"
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Surah Nas/নাস"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/kausar"
+        app:layout_constraintStart_toStartOf="@+id/kausar"
+        app:layout_constraintTop_toBottomOf="@+id/kausar" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Index">
+
+    <TextView
+        android:id="@+id/index"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/noto_serif"
+        android:gravity="center"
+        android:text="Index/সূচিপত্র"
+        android:textAlignment="center"
+        android:textColor="#0C0C0C"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/material_btn1"
+        android:layout_width="280dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Kalima/কালিমা"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/index"
+        app:layout_constraintStart_toStartOf="@+id/index"
+        app:layout_constraintTop_toBottomOf="@+id/index" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/material_btn2"
+        android:layout_width="280dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Ajan/আযান"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/material_btn1"
+        app:layout_constraintStart_toStartOf="@+id/material_btn1"
+        app:layout_constraintTop_toBottomOf="@+id/material_btn1" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/material_btn3"
+        android:layout_width="280dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Salat/নামায"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/material_btn2"
+        app:layout_constraintStart_toStartOf="@+id/material_btn2"
+        app:layout_constraintTop_toBottomOf="@+id/material_btn2" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/material_btn4"
+        android:layout_width="280dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Islamic Quotes/উক্তি"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/material_btn3"
+        app:layout_constraintStart_toStartOf="@+id/material_btn3"
+        app:layout_constraintTop_toBottomOf="@+id/material_btn3" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/material_btn5"
+        android:layout_width="280dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Dua/দোয়া"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/material_btn4"
+        app:layout_constraintStart_toStartOf="@+id/material_btn4"
+        app:layout_constraintTop_toBottomOf="@+id/material_btn4" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/developer"
+        android:layout_width="280dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="About Developer"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/material_btn5"
+        app:layout_constraintStart_toStartOf="@+id/material_btn5"
+        app:layout_constraintTop_toBottomOf="@+id/material_btn5" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

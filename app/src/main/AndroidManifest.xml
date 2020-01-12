@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.islam_is_peace">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/mosque"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/mosque"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Developer"></activity>
+        <activity android:name=".Nas_Bangla" />
+        <activity android:name=".Nas_English" />
+        <activity android:name=".Nas_Language" />
+        <activity android:name=".Kausar_Bangla" />
+        <activity android:name=".Kausar_English" />
+        <activity android:name=".Kausar_Language" />
+        <activity android:name=".Ikhlas_Bangla" />
+        <activity android:name=".Ikhlas_English" />
+        <activity android:name=".Ikhlas_Language" />
+        <activity android:name=".Fatiha_Bangla" />
+        <activity android:name=".Fatiha_English" />
+        <activity android:name=".Fatiha_Language" />
+        <activity android:name=".Surah_List" />
+        <activity android:name=".Tashahhud_Bangla" />
+        <activity android:name=".Tashahhud_English" />
+        <activity android:name=".Tashahhud_Language" />
+        <activity android:name=".Dorud_Bangla" />
+        <activity android:name=".Dorud_English" />
+        <activity android:name=".Dorud_Language" />
+        <activity android:name=".Dua_Masura_Bangla" />
+        <activity android:name=".Dua_Masura_English" />
+        <activity android:name=".Dua_Masura_Language" />
+        <activity android:name=".Dua_Kunut_Bangla" />
+        <activity android:name=".Dua_Kunut_English" />
+        <activity android:name=".Dua_Kunut_Language" />
+        <activity android:name=".Quotes_Bangla" />
+        <activity android:name=".Quotes_English" />
+        <activity android:name=".Durood_Bangla" />
+        <activity android:name=".Durood_english" />
+        <activity android:name=".Ajan_Dua_Bangla" />
+        <activity android:name=".Ajan_Dua_English" />
+        <activity android:name=".Ajan_Bangla" />
+        <activity android:name=".Ajan_English" />
+        <activity android:name=".Tamjid_Bangla" />
+        <activity android:name=".Tamjid_English" />
+        <activity android:name=".Tawheed_Bangla" />
+        <activity android:name=".Tawheed_English" />
+        <activity android:name=".Shahadat_Bangla" />
+        <activity android:name=".Shahadat_English" />
+        <activity android:name=".Bangla_Kalima" />
+        <activity android:name=".English_Kalima" />
+        <activity android:name=".Dua" />
+        <activity android:name=".Quotes" />
+        <activity android:name=".Namaz" />
+        <activity android:name=".Ajan_Language2" />
+        <activity android:name=".Ajan_Language" />
+        <activity android:name=".Ajan" />
+        <activity android:name=".Kalima_Language4" />
+        <activity android:name=".Kalima_Language3" />
+        <activity android:name=".Kalima_Language2" />
+        <activity android:name=".Kalima_Language" />
+        <activity android:name=".Four_Kalima" />
+        <activity android:name=".Index" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

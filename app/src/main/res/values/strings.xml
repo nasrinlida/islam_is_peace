@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">Peace</string>
+    <string name="arabic">لَآ اِلٰهَ اِلَّااللهُ مُحَمَّدٌ رَّسُولُ اللہِِ</string>
+    <string name="pronunce">Pronunciation : Laa ilaaha illal Lahoo Muhammadur Rasool Ullah.</string>
+    <string name="meaning">Meaning : There is no God Besides Allah, Hazrat Muhammad (SAW) is the messenger of Allah.</string>
+    <string name="uchcharon">উচ্চারণ : লা ইলাহা ইল্লাল্লাহ মুহাম্মাদুর রাসুলুল্লাহ |</string>
+    <string name="ortho">অর্থ : আল্লাহ ছাড়া অন্য কেউ উপাস্য নাই এবং হযরত মুহাম্মদ (Saw) তাঁর প্রেরিত রসূল |</string>
+
+    <string name="shahadat_arabic">ٗاشْهَدُ انْ لّآ اِلهَ اِلَّا اللّهُ وَحْدَه لَا شَرِيْكَ لَه، وَ اَشْهَدُ اَنَّ مُحَمَّدً اعَبْدُهوَرَسُولُه</string>
+    <string name="shahadat_pronounce">Pronunciation : Ashahadu Al Laa ilaaha illal Lahu Wahdahoo Laa Shareeka Lahoo Wa Ash Hadu Anna Mohammadan Abdu Hoo Wa Rasooluhoo.</string>
+    <string name="shahadat_meaning">Meaning : I bear witness that (there is) no god except Allah; One is He, no partner hath He, and I bear witness that Muhammad is His Servant and Messenger.</string>
+    <string name="shahadat_uchcharon">উচ্চারণ : আশহাদু আল লা-ইলাহা ইল্লাল্লাহু ওয়াহ্দাহু লা-শারিকালাহু ওয়াশহাদু আন্না মুহাম্মাদান আবদুহু ওয়া রাসুলুহু |</string>
+    <string name="shahadat_ortho">অর্থ : আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ছাড়া অন্য কেউ ইবাদতের উপযুক্ত না এবং আল্লাহর কোন অংশীদার নেই | আমি আরো সাক্ষ্য দিচ্ছি যে, হযরত মুহাম্মদ(সাঃ ) আল্লার শ্রেষ্ঠ বান্দা এবং আল্লাহ প্রেরিত রসূল |</string>
+
+    <string name="tawheed_arabic">لَآ اِلٰهَ اِلَّا اللهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَ لَهُ الْحَمْدُ يُحْىٖ وَ يُمِيْتُ وَ هُوَحَیٌّ لَّا يَمُوْتُ اَبَدًا اَبَدًاؕ ذُو الْجَلَالِ وَالْاِكْرَامِؕ بِيَدِهِ الْخَيْرُؕ وَهُوَ عَلٰى كُلِّ شیْ ٍٔ قَدِیْرٌؕ‎ </string>
+    <string name="tawheed_pronounce">Pronunciation : Laa ilaha illal Lahoo Wahdahoo Laa Shareekalahoo Lahul Mulko Walahul Hamdo Yuhee Wa Yumeeto Wa Hoa Haiy Yul La Yamooto Abadan Abada Zul Jalali Wal ikraam Beyadihil Khair. Wa hoa Ala Kulli Shai In Qadeer.</string>
+    <string name="tawheed_meaning">Meaning : (There is) no god except Allah – One is He, no partners hath He. His is the Dominion, and His is the Praise. He gives life and sees to the natural cycle of life, life on Earth ends (death) for there is the eternal after life. He is eternal and ubiquitous. He of Majesty and Munificence. Within His Hand is (all) good. And He is, upon everything, Able (to exert His Will).</string>
+    <string name="tawheed_uchcharon">উচ্চারণ : লা ইলাহা ইল্লাল্লাহু ওয়াহ্দাহু লা শারিকা লাহু, লাহুল মুলকু ওলাহুল হামদু উহয়ী ওয়া ইয়োমিতু ওয়া হুয়া হাইয়ুল লা ইয়ামুতু আবাদান আবাদা জুল জালালী ওয়াল ইকরাম বি ইয়াদিহিল খাইর ওয়া হুয়া আলা কুল্লি শাইয়িন কাদীর |</string>
+    <string name="tawheed_ortho">অর্থ : আল্লাহ ব্যতীত কোন উপাস্য নেই | তিনি এক ও অদ্বিতীয় | তার কোন অংশীদার নেই | সকল ক্ষমতা এবং প্রশংসা তার জন্য | তিনি জীবন ও মৃত্যুর মালিক | তিনি চিরঞ্জীব, সকল সম্মানের মালিক | তার হাতেই সকল মঙ্গল সবকিছুর উপর তার ক্ষমতা রয়েছে |</string>
+
+    <string name="tamjid_arabic">سُبْحَان اللهِ وَالْحَمْدُلِلّهِ وَلا إِلهَ إِلّااللّهُ وَاللّهُ أكْبَرُ وَلا حَوْلَ وَلاَ قُوَّةَ إِلَّا بِاللّهِ الْعَلِيِّ الْعَظِيْم</string>
+    <string name="tamjid_pronounce">Pronunciation : Subhanallahe Wal Hamdulillahe Wa Laa ilaha illal Laho Wallahooakbar. Wala Haola Wala Quwwata illa billahil AliYil Azeem.</string>
+    <string name="tamjid_meaning">Meaning : Exalted is Allah, and [all] praise is due to Allah, and there is no deity except Allah, and Allah is the Greatest. And there is no might nor power except in Allah, the Most High, the Most Great.</string>
+    <string name="tamjid_uchcharon">উচ্চারণ : সুবহানআল্লাহি ওয়াল হামদু লিল্লাহি ওয়ালা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার, ওয়ালা হাওলা ওয়ালা কুয়াতা ইল্লা বিল্লাহিল আলীইল আজিম |</string>
+    <string name="tamjid_ortho">অর্থ : মহিমান্বিত আল্লাহর, সমস্ত প্রশংসা আল্লাহর | আল্লাহ ছাড়া কোন মাবুদ নাই | আল্লাহ মহান | সমস্ত প্বিত্রতা আল্লাহর সকল প্রশংসা আল্লাহর | আল্লাহ ছাড়া কোন শক্তি নাই, কোন ক্ষমতা নাই, তিনি সম্মানিত, তিনি মহান |</string>
+
+    <string name="ans_1">Repeat what the Muaththin says, except for when he says : </string>
+    <string name="salah">حَيَّ عَلَى الصَّلاَةِ وَحَيَّ عَلَى الْفَلَاحِ</string>
+    <string name="salah_pronounce">Hayya alas-Salaah (hasten to the prayer) and Hayya alal-Falaah (hasten to salvation). Here you should say : </string>
+
+    <string name="la_haola">لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</string>
+    <string name="la_haola_pronounce">Pronunciation : Laa hawla wa laa quwwata illaa billaah.</string>
+    <string name="la_haola_meaning">Meaning : There is no might and no power except by Allah.</string>
+
+    <string name="ans_2">The following is to be recited in Arabic after the Muaththin’s Tashahhud or the words of affirmation of Faith : </string>
+    <string name="after_la_haola">وَأَنَا أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ، رَضِيتُ بِاللهِ رَبَّاً وَبِمُحَمَّدٍ رَسُولاً وَبِالإِْسلاَمِ دِيناً</string>
+    <string name="after_la_haola_pronounce">Pronunciation : Wa anaa ash-hadu al laa ilaaha illallaahu wahdahu laa shareeka lahu wa anna Muhammadan abduhu wa Rasooluhu, radheetu billaahi Rabban, wa bi-Muhammadin Rasoolan wa bil islaami deenan.</string>
+    <string name="after_la_haola_meaning">Meaning : I bear witness that none has the right to be worshipped but Allah alone, Who has no partner, and that Muhammad is His slave and His Messenger. I am pleased with Allah as my Lord, with Muhammad as my Messenger and with Islam as my religion.</string>
+
+    <string name="bangla_ans1">মুয়াজ্জিন- اَللهُ اَكْبَرْ (আল্লাহু আকবার) ৪ বার</string>
+    <string name="bangla_ans2">শ্রবণকারী- اَللهُ اَكْبَرْ (আল্লাহু আকবার) ৪ বার</string>
+    <string name="bangla_ans3">মুয়াজ্জিন- اَشْهَدُ اَنْ لَا اِلَهَ اِلَّا الله (আশহাদু আল লাইলাহা ইল্লাল্লাহ) ২ বার</string>
+    <string name="bangla_ans4">শ্রবণকারী- اَشْهَدُ اَنْ لَا اِلَهَ اِلَّا الله (আশহাদু আললা ইলাহা ইল্লাল্লাহ) ২ বার</string>
+    <string name="bangla_ans5">মুয়াজ্জিন- اَشْهَدُ اَنَّ مُحَمَّدًا رَّسُوْلُ اللهِ (আশহাদু আন্না মুহাম্মাদার রাসুলুল্লাহ) ২ বার</string>
+    <string name="bangla_ans6">শ্রবণকারী- اَشْهَدُ اَنَّ مُحَمَّدًا رَّسُوْلُ اللهِ (আশহাদু আন্না মুহাম্মাদার রাসুলুল্লাহ) ২ বার</string>
+    <string name="bangla_ans7">মুয়াজ্জিন- حَيَّ عَلَي الصَّلوةِ (হাইয়্যা আলাস সালাহ) ২ বার</string>
+    <string name="bangla_ans8">শ্রবণকারী- لَا حَوْلَ وَ لَا قُوَّةَ اِلَّا بِاللهِ (লা হাওলা ওয়া লা কুয়্যাতা ইল্লা বিল্লাহ) ২ বার</string>
+    <string name="bangla_ans9">মুয়াজ্জিন- حَيَّ عَلَي الفَلَاحِ (হাইয়্যা আলাল ফালাহ) ২ বার</string>
+    <string name="bangla_ans10">শ্রবণকারী- لَا حَوْلَ وَ لَا قُوَّةَ اِلَّا بِاللهِ (লা হাওলা ওয়া লা কুয়্যাতা ইল্লা বিল্লাহ) ২ বার</string>
+
+    <string name="dua_arabic">اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدا نلْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَاماً مَحْمُودا نلَّذِي وَعَدْتَهُ، [إَنَّكَ لَا تُخْلِفُ الْمِيعَادَ]</string>
+    <string name="dua_pronounce">Pronunciation : Allaahumma Rabba haathihid-da watit-taammati wassalaatil-qaa imati, aati Muhammadanil-waseelata walfadheelata, wab ath-hu maqaamam-mahmoodanil-lathee wa adtahu, [innaka laa tukhliful-mee aad]</string>
+    <string name="dua_meaning">Meaning : O Allah , Lord of this perfect call and established prayer. Grant Muhammad the intercession and favor, and raise him to the honored station You have promised him, [verily You do not neglect promises].</string>
+    <string name="dua_uchcharon">উচ্চারণ : আল্লা-হুম্মা রব্বা হাজিহিদ দা’অতীত্ তাম্মাতি অস্স্বলাতিল ক্ব-ইমাতি আ-তি মুহাম্মানিল্ অসীলাতা অল্ ফাযীলাতা অবআ’স্হু মাক্বামাম্ মাহমুদানিল্লাযী অ-আ’দ্তাহু, ইন্নাকা লা-তুখলিফুল মীআ’দ |</string>
+    <string name="dua_ortho">অর্থ : এইসব পরিপূর্ণ আহ্বান ও আসন্ন নামাযের প্রভু | হে আল্লাহ্ ! হযরত মুহাম্মাদ (সাঃ ) কে জান্নাতের অসীলা নামক মনযিলটিও সম্মান দান করো এবং তুমি তাঁকে সেই মক্কা-মে মাহমুদ বা প্রশংসিত জায়গায় পৌঁছে দিও, যা তাঁকে দেবার জন্য তুমি ওয়াদা করেছো | নিশ্চয় তুমি ওয়াদা খিলাফ করো না |</string>
+
+    <string name="kursi_arabic">اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلاَّ بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاواتِ وَالأَرْضَ وَلاَ يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ</string>
+    <string name="kursi_pronounce">Pronunciation : Allahu laaa ilaaha illaa huwal haiyul qai-yoom; laa taakhuzuhoo sinatunw wa laa nawm; lahoo maa fissamaawaati wa maa fil ard; man zallazee yashfau indahooo illaa be iznih; ya lamu maa baina aideehim wa maa khalfahum; wa laa yuheetoona beshai immin ilmihee illa be maa shaaaa; wasi a kursiyyuhus samaa waati wal arda wa la ya ooduho hifzuhumaa; wa huwal aliyyul  azeem.</string>
+    <string name="kursi_meaning">Meaning : Allah! There is no god but He - the Living, The Self-subsisting, Eternal. No slumber can seize Him Nor Sleep. His are all things In the heavens and on earth. Who is there can intercede In His presence except As he permitteth? He knoweth What (appeareth to His creatures As) Before or After or Behind them. Nor shall they compass Aught of His knowledge Except as He willeth. His throne doth extend Over the heavens And on earth, and He feeleth No fatigue in guarding And preserving them, For He is the Most High. The Supreme (in glory)</string>
+
+    <string name="kursi_uchcharon">উচ্চারণঃ আল্লাহু লা ইলাহা ইল্লা হুয়াল হাইয়্যুল ক্বাইয়্যুম লা তা’খুজুহু সিনাত্যু ওয়ালা নাউম। লাহু মা ফিছছামা ওয়াতি ওয়ামা ফিল আরদ্। মান যাল্লাযী ইয়াস ফায়ু ইন দাহু ইল্লা বি ইজনিহি ইয়া লামু মা বাইনা আইদিহিম ওয়ামা খল ফাহুম ওয়ালা ইউ হিতুনা বিশাই ইম্ মিন ইল্ মিহি ইল্লা বিমা সাআ ওয়াসিয়া কুরসিইউ হুস ছামা ওয়াতি ওয়াল আরদ্ ওয়ালা ইয়া উদুহু হিফজুহুমা ওয়াহুয়াল আলিয়্যূল আজীম।</string>
+    <string name="kursi_ortho">অর্থ: আল্লাহ ছাড়া অন্য কোনো উপাস্য নেই, তিনি জীবিত, সবকিছুর ধারক। তাকে তন্দ্রাও স্পর্শ করতে পারে না এবং নিদ্রাও নয়। আসমান ও যমীনে যা কিছু রয়েছে, সবই তার। কে আছ এমন, যে সুপারিশ করবে তার কাছে তার অনুমতি ছাড়া? দৃষ্টির সামনে কিংবা পিছনে যা কিছু রয়েছে সে সবই তিনি জানেন। তার জ্ঞানসীমা থেকে তারা কোনো কিছুকেই পরিবেষ্টিত করতে পারে না, কিন্তু যতটুকু তিনি ইচ্ছা করেন। তার সিংহাসন সমস্ত আসমান ও যমীনকে পরিবেষ্টিত করে আছে। আর সেগুলোকে ধারণ করা তার পক্ষে কঠিন নয়। তিনিই সর্বোচ্চ এবং সর্বাপেক্ষা মহান।</string>
+
+    <string name="quote1">“Do not lose hope, nor be sad.” Quran 3:139</string>
+    <string name="quote2">“When you forget that you need Allah (God), He puts you in a situation that causes you to call upon Him. And that’s for your own good.” Omar Suleiman</string>
+    <string name="quote3">“The life of this world is merely enjoyment of delusion.” Quran 3:185</string>
+    <string name="quote4">“Allah (God) does not burden a soul beyond that it can bear.” Quran 2:286</string>
+    <string name="quote5">“And whoever turns away from My remembrance – indeed, he will have a depressed life.” Quran 20:124</string>
+    <string name="quote6">“If you give thanks, I will give you more.” Quran 14:7</string>
+    <string name="quote7">“The best among you are those who have the best manners and best character.” Sahih Bukhari 6029</string>
+    <string name="quote8">“Indeed, Allah (God) will not change the condition of a people until they change what is in themselves.” Qur’an 13:11</string>
+    <string name="quote9">“The richest of the rich is the one who is not a prisoner to greed.” Ali Ibn Abi Talib (R.A)</string>
+    <string name="quote10">“Every soul will taste death. Then unto Us will you be returned.” Quran 29:57</string>
+    <string name="quote11">“No one will reap except what they sow.” Quran 6:164</string>
+    <string name="quote12">“Indeed, that is My Path – perfectly straight. So follow it and do not follow other ways, for they will lead you away from His Way. This is what He has commanded you, so perhaps you will be conscious of Allah (God).” Quran 6:153</string>
+    <string name="quote13">“Allah is with the doers of good.” Quran 29:69</string>
+    <string name="quote14">“And warn them [O Muhammad], of the Day of Regret, when the matter will be concluded; and [yet], they are in [a state of] heedlessness, and they do not believe.” Quran 19:39</string>
+    <string name="quote15">“And the Hereafter is better for you than the first [life]. And your Lord is going to give you, and you will be satisfied.” Quran 93:4-5</string>
+    <string name="quote16">“And He found you lost and guided [you]. And He found you poor and made [you] self-sufficient.” Quran 93:7-8</string>
+    <string name="quote17">“Sell this life for the next and you win both of them. Sell the next life for this and you lose both of them.” Hasan al-Basri</string>
+    <string name="quote18">“Allah (God) is with those who have patience.” Quran 2:153</string>
+    <string name="quote19">“And it is He who created the night and day, and the sun and moon.” Quran 21:33</string>
+    <string name="quote20">“Whoever fears Allah (God), Allah (God) will find a way out for him (from every difficulty) and He will provide for him from sources that he could never have imagined.” Quran 65:2-3</string>
+
+    <string name="bangla_quote1">“পড় তোমার প্রভুর নামে, যিনি তোমাকে সৃষ্টি করেছেন” - আল কুরআন</string>
+    <string name="bangla_quote2">“অশালীন কাজের নিকটেও যেয়োনা তা প্রকাশ্য হোক কিংবা গোপন হোক” - আল কুরআন</string>
+    <string name="bangla_quote3">“ধর্ম ও নৈতিকতার শিক্ষা সন্তানের জন্য সবচেয়ে বড় সম্পদ” - আল কুরআন</string>
+    <string name="bangla_quote4">“নিশ্চয়ই সীমা লংঘনকারীকে আল্লাহ ভালবাসেনা” - আল কুরআন</string>
+    <string name="bangla_quote5">“তোমাদের ধনসম্পদ ও পুত্রকন্যা আমার ণৈকট্যলাভের সহায়ক হবে না” - আল কুরআন</string>
+    <string name="bangla_quote6">“যে ব্যক্তি মানুষকে দয়া করে না, আল্লাহ তায়ালা তাহার উপর রহমত বর্ষণ করে না” - আল হাদিস</string>
+    <string name="bangla_quote7">“তোমরা তোমাদের কথা গোপনে বল অথবা প্রকাশ্যে বল, তিনিতো ( আল্লাহ) অন্তরের বিষয়াদি সম্পর্কে সম্যক অবগত” - আল হাদিস</string>
+    <string name="bangla_quote8">“মাতা পিতাকে কষ্ট দিবে না। তারা যদি তোমাকে তোমার সন্তান সন্ততি ও বিষয় সম্পদ থেকে বিচ্ছিন্ন করে দেয় তবুও” - আল হাদিস</string>
+    <string name="bangla_quote9">“অবশ্যই আমি শিক্ষা গ্রহণ করার জন্যে কুরআন-কে সহজ করে দিয়েছি, অতএব আছে কি তোমাদের মাঝে কেউ এর থেকে শিক্ষা গ্রহণ করার?” - আল কুরআন</string>
+    <string name="bangla_quote10">“সত্য লোকের নিকট অপ্রিয় হইলেও তাহা প্রচার কর” - আল হাদিস</string>
+    <string name="bangla_quote11">“যে ব্যক্তি বাক্যে, কর্মে ও চিন্তায় সত্য নয়, সে প্রকৃত প্রস্তাবে সত্যনিষ্ঠ নহে” - আল হাদিস</string>
+    <string name="bangla_quote12">“জুলুম ও অত্যাচারী লোক কিয়ামতের দিন অন্ধ হইয়া উঠিবে” - আল হাদিস</string>
+    <string name="bangla_quote13">“কৃপণ ব্যক্তি খোদা হইতে দুরে, লোকসমাজে ঘৃণিত ও দোজখের নিকটবর্তী” - আল হাদিস</string>
+    <string name="bangla_quote14">“যখন উপাসনা শেষ হবে, তোমরা জমিনে ছড়িয়ে পড়বে এবং আল্লাহর দান অনুসন্ধানে ব্যাপৃত থাকবে” - আল হাদিস</string>
+    <string name="bangla_quote15">“ধৈর্য এমন একটি গাছ, যার সারা গায়ে কাটা কিন্তু ফল অত্যন্ত মজাদার” - আল হাদিস</string>
+    <string name="bangla_quote16">“যে গর্ভ তোমাকে ধারন করেছে সে গর্ভধারিণী মায়ের প্রতি কর্তব্য কর ও শ্রদ্ধা নিবেদন কর” - আল কুরআন</string>
+    <string name="bangla_quote17">“দরিদ্রকে দান করিলে সেই দানের জন্য একটি পুরষ্কার আছে। কিন্তু অভাবগ্রস্ত আত্নীয়-স্বজনকে দান করিলে সেই দান করিলে সেই দানের জন্য দুইটি পুরষ্কার আছে, একটি দানের জন্য, অন্যটি আত্নীয়কে সাহায্য করার জন্য” - আল হাদিস</string>
+
+    <string name="surah_fatiha_arabic">بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾ـ</string>
+    <string name="surah_fatiha_pronounce">Pronunciation : Bismillaah hir-Rahmanir-Raheem. Al hamdu lil lahi rabbil alamin. Arrahmanir rahim. Maliki yawmiddin. Iyyaka na budu wa iyyaka nasta in. Ihdinas siratal mustaqim. Siratal ladhina an amta alaihim, gairil maghdubi alaihim wa lad dhallin. Aameen.</string>
+    <string name="surah_fatiha_meaning">Meaning : In the name of God, the infinitely Compassionate and Merciful. Praise be to God, Lord of all the worlds. The Compassionate, the Merciful. Ruler on the Day of Reckoning. You alone do we worship, and You alone do we ask for help. Guide us on the straight path, the path of those who have received your grace; not the path of those who have brought down wrath, nor of those who wander astray. Amen.</string>
+    <string name="surah_fatiha_uchcharon">উচ্চারণ : বিসমিল্লাহির রাহমানির রাহিম | আলহামদুলিল্লাহি রাব্বিল আলামিন | আররাহমানির রাহিম | মালিকি ইয়াও মিদ্দিন | ইয়্যাকা না’বুদু ওয়া ইয়্যাকা নাস্তাঈন | ইহ্দিনাস সিরাত্বল মুসতাক্বীম | সিরাত্বল্লাজীনা আন্ আ’মতা আলাইহিম | গা’ইরিল মাগদুবি আলাইহিম ওয়ালাদ দাল্লীন | আমিন |</string>
+    <string name="surah_fatiha_ortho">অর্থ : পরম করুণাময় ও অসীম দয়ালু আল্লাহর নামে | প্রশংসা আল্লাহ তাআলার জন্য, যিনি বিশ্বজগতের প্রতিপালক | যিনি পরম করুণাময় এবং অসীম দয়ালু | যিনি আমাদের রোজ হাশরের মালিক | আমরা শুধু তোমারই এবাদত করি ও একমাত্র তোমারই কাছে সাহায্য প্রার্থনা করি | আমাদের তুমি সরল – সঠিক পথ দেখাও, তাদের পথ যাদের উপর তোমার নেয়ামত বর্ষিত হয়েছে | তাদের ব্যতীত যাদের উপর তোমার গযব নাজিল হয়েছে এবং যারা পথভ্রষ্ট হয়েছে |</string>
+
+    <string name="surah_ikhlas_arabic">قُلْ هُوَ اللَّهُ أَحَدٌ ﴿١﴾ اللَّهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿٤﴾</string>
+    <string name="surah_ikhlas_pronounce">Pronunciation : Qul hu wal lahu ahad, allahus samad, lam yalid wa lam yulad, wa lam ya kul lahu kufuwan ahad.</string>
+    <string name="surah_ikhlas_meaning">Meaning : Say: He is Allah, the One. He is Allah, the Eternal, Who was never born, nor ever gave birth. The One beyond compare.</string>
+    <string name="surah_ikhlas_uchcharon">উচ্চারণ : কুলহু আল্লাহু আহাদ | আল্লাহুস সামাদ | লাম ইয়ালিদ ওয়া লাম ইউলাদ | ওয়া লাম ইয়া কুল্লাহু কুফুওয়ান আহাদ |</string>
+    <string name="surah_ikhlas_ortho">অর্থ : বলুন, তিনি আল্লাহ, এক, আল্লাহ অমুখাপেক্ষী, তিনি কাউকে জন্ম দেননি এবং কেউ তাকে জন্ম দেয়নি এবং তার সমতুল্য কেউ নেই | </string>
+
+
+    <string name="surah_kausar_arabic">اِنَّاۤ اَعۡطَيۡنٰكَ الۡكَوۡثَرَؕ‏ فَصَلِّ لِرَبِّكَ وَانۡحَرۡ ؕ‏ اِنَّ شَانِئَكَ هُوَ الۡاَبۡتَرُ</string>
+    <string name="surah_kausar_pronounce">Pronunciation : Innaa a’atainaakal kausar. Fasalli li rabbika wanhar. Inna shaani’aka huwal abtar.</string>
+    <string name="surah_kausar_meaning">Meaning : Truly, I have given you abundance. So turn to your Lord in prayer and sacrifice. It is those who oppose you who are in loss.</string>
+    <string name="surah_kausar_uchcharon">উচ্চারণ : ইন্না আ’ত্বাইনা কাল কাউসার | ফাসাল্লিলি রাব্বিকা ওয়ানহার | ইন্না শা’নিয়াকা হুয়াল অবতার |</string>
+    <string name="surah_kausar_ortho">অর্থ : নিশ্চয় আমি আপনাকে কাউসার দান করেছি | অতএব আপনার পালনকর্তার উদ্দেশ্যে নামাজ পড়ুন এবং কুরবানী করুন | যে আপনার শত্রূ, সেই তো লেজকাটা, নির্বংশ |</string>
+
+    <string name="surah_nas_arabic">قُلْ أَعُوذُ بِرَبِّ النَّاسِ ﴿١﴾ مَلِكِ النَّاسِ ﴿٢﴾ إِلَهِ النَّاسِ ﴿٣﴾ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ﴿٤﴾ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ﴿٥﴾ مِنَ الْجِنَّةِ وَ النَّاسِ ﴿٦﴾</string>
+    <string name="surah_nas_pronounce">Pronunciation : Qul a’uudhi bi rabbin naas. Malikin naas. Ilaahin naas. Min sharril wawaasil khannas. Alladhee yuwaswisu fee suduurin naas. Minal Jinnati wa naas</string>
+    <string name="surah_nas_meaning">Meaning : Say: I take refuge in the Lord of mankind, the Master of mankind, the God of mankind, from the evil of the secret tempter. Who whispers in the hearts of men, of the jinns and men.</string>
+    <string name="surah_nas_uchcharon">উচ্চারণ : কুল আউযুবি রাব্বিন্নাস | মালিকিন্নাস | ইলাহিন্নাস | মিন শাররিল ওয়াসওয়াসিল খান্নাস | আল্লাযি ইউওয়াসবিসু ফিসুদুরিন্নাস | মিনাল জিন্নাতি ওয়ান্নাস |</string>
+    <string name="surah_nas_ortho">অর্থ : বলুন, আমি আশ্রয় গ্রহণ করছি মানুষের প্রতিপালকের, মানুষের অধিপতির, মানুষের মা’বুদের, তার অনিষ্ট থেকে যে কুমন্ত্রণা দেয় এবং আত্মগোপন করে, যে কুমন্ত্রণা দেয় মানুষের অন্তরে, জ্বিনের মধ্য থেকে নতুবা মানুষের মধ্য থেকে |</string>
+
+
+    <string name="tashahhud_arabic">التَّحِيَّاتُ لِلّٰهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، اَلسَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، اَلسَّلَامُ عَلَيْنَا وَ عَلٰى عِبَادِ اللهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَ رَسُوْلُهُ‎[2]</string>
+    <string name="tashahhud_pronounce">Pronunciation : At-tahiyyatu lillahi, wa -s-salawatu wa -t-ṭayyibatu. As-salamu alayka ayyuha n-nabiyyu wa-rahmatu llahi wa-barakatuh. As-salamu alayna wa-aala ibadi llahi s-salihin. Ashadu an la ilaha illa llahu wa-ashadu anna Muhammadan abduhu wa-rasuluh.</string>
+    <string name="tashahhud_meaning">Meaning : Salutations to God and prayers and good deeds. Peace be upon you, O Prophet, and the mercy of God and his blessings. Peace be on us and on the righteous servants of God. I bear witness that there is no god but Allah, and I bear witness that Muhammad is His servant and His messenger.</string>
+    <string name="tashahhud_uchcharon">উচ্চারন : আত্তাহিয়্যাতু লিল্লাহি ওয়াস্‌ সালাওয়াতু, ওয়াত্‌ তাইয়িবাতু। আস্‌সালামু ‘আলাইকা আইয়্যুহান নাবীয়্যু ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহু। আস্‌সালামু আলাইনা ওয়া আলা ইবাদিল্লাহিস্‌ সালিহীন। আশহাদু আল-লা-ইলাহা ইল্লাল্লাহু ওয়া আশ্‌হাদু আননা মুহাম্মাদান আদুহু ওয়া রাসুলুহু।</string>
+    <string name="tashahhud_ortho">অর্থ : কি মৌখিক,কি দৈহিক,কি আর্থিক সকল ইবাদাত এক মাত্র আল্লাহ’র জন্য/সমস্ত সম্মানজনক সম্বোধন আল্লাহর জন্যে।সমস্ত শান্তি কল্যাণ ও পবিত্রার মালিক আল্লাহ। হে নবী, আপনার উপর আল্লাহ’র শান্তি, রহমত ও বরকত বর্ষিত হোক)আসসালামু আলায়না ওয়া আলা ইবাদিল্লাহিস সোয়ালেহিন(আমাদের উপর এবং সৎকর্মশীল বান্দাদের উপর আল্লাহ’র শান্তি বর্ষিত হোক। আমি সাক্ষ্য দিচ্ছি আল্লাহ ব্যতিত অন্য কোন ইলাহ নেই,আরো সাক্ষ্য দিচ্ছি মুহাম্মাদ(সাঃ) আল্লাহ’র বান্দা ও রাসুল।</string>
+    <string name="durood_arabic">اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى اَلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى اِبْرَا هِيْمَ وَعَلَى اَلِ اِبْرَ اهِيْمَ اِنَّكَ حَمِيْدٌ مَّجِيْدٌ- اَللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى اَلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى اِبْرَا هِيْمَ وَعَلَى اَلِ اِبْرَا هِيْمَ اِنَّكَ حَمِيْدٌمَّجِيْدٌ</string>
+    <string name="durood_pronounce">Pronunciation : Allahumma Salli Ala Muhammadiw Wa Ala Aali Muhammadin Kamaa Sallaita Ala Ibrahima Wa Ala Aali Ibrahima Innaka Hamidum Majid. Allahumma Baarik Ala Muhammadiw Wa Ala Aali Muhammadin Kamaa Baarakta Ala Ibrahima Wa Ala Aali Ibrahima Innaka Hamidum Majid.</string>
+    <string name="durood_meaning">Meaning : O Allah, let Your Blessings come upon Muhammad (Peace Be Upon Him) and the family of Muhammad (Peace Be Upon Him), as you have blessed Ibrahim and his family. Truly, You are Praiseworthy and Glorious. Allah, bless Muhammad and the family of Muhammad, as you have blessed Ibrahim and his family. Truly, You are Praiseworthy and Glorious.</string>
+    <string name="durood_uchcharon">উচ্চারন : আললাহুম্মা সাললিআলা মুহাম্মাদিঁ ওয়া আলা আলি মুম্মাদিন কামা সাললাইতা আলা ইব্রাহীমা ওয়া আলা আলি ইব্রাহীমা ইন্নাকা হামিদুম্মাজীদ। আললাহুম্মা বারিক আলা মুহাম্মাদিঁ ওয়া আলা আলি মুহাম্মাদিন কামা বারাকতা আলা ইব্রাহীমা ওয়া আলা আলি ইব্রাহীমা ইন্নাকা হামীদুম্মাজীদ।</string>
+    <string name="durood_ortho">অর্থ : যে আললাহ! মুহাম্মদ (সাললাললাহু আলাইহি ওয়া সাললাম) এবং তাঁহার বংশধরগণের উপর ঐরূপ আশীর্বাদ অবতীর্ণ কর যেইরূপ আর্শীবাদ হযরত ইব্রাহিম (আঃ) এবং তাঁহার বংশধরগণের উপর অবতীর্ণ করিয়াছ। নিশ্চয়ই তুমি প্রশংসা ভাজন এবং মহামহিম। হে আললাহ! মুহাম্মদ (সাললাললাহু আলাইহি ওয়া সাললাম) এবং তাঁহার বংশধরগণের উপর সেইরূপ অনুগ্রহ কর যে রূপ অনুগ্রহ ইব্রাহীম (আঃ) এবং তাঁহার বংশরগণের উপর করিয়াছ। নিশ্চয়ই তুমি প্রশংসা ভাজন এবং মহামহিম|</string>
+    <string name="dua_masura_arabic">اَللّٰھُمَّ أِنِّیْ ظَلَمْتُ نَفْسِیْ ظُلْمًا کَثِیْرًا وَّلَا یَغْفِرُ الذُّنُوْبَ اِلَّا أَنْتَ فَاغْفِرْلِیْ مَغْفِرَةً مِّنْ عِنْدِكَ
+وَارْحَمْنِیْ أِنَّكَ أَنْتَ الْغَفُوْرُ الرَّحِیْمَ
+</string>
+    <string name="dua_masura_pronounce">Pronunciation : ALLAHumma Inni Zalamtu Nafsi Zulman Kaseeraao, Wala Yaghfiruz-Zunooba Illa Anta, Faghfirlee Maghfiratan-mMin Indika
+War Hamnee Innakaa Antal Ghafoorur Raheemu
+</string>
+
+
+    <string name="fatiha">الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+(Al ḥamdu lillahi rabbi l-’alamin)
+Praise be to Allah, the lord of the universe.
+ الرَّحْمَنِ الرَّحِيمِ
+(Ar raḥmani r-raḥim)
+The most gracious, the most merciful.
+ مَالِكِ يَوْمِ الدِّينِ
+(Maliki yawmi d-din)
+Master of the Day of Judgement.
+ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+(Iyyaka na’budu wa iyyaka nasta’in)
+You alone we worship, and [from] you alone we ask for help.
+ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
+(Ihdina ṣ-ṣiraṭ al-mustaqim)
+Guide us [to] the straight path.
+ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+(Ṣiraṭ al lazi na an’amta ‘alayhim, gayril magḍubi ‘alayhim walaḍ ḍallin)
+The path of those on whom you have bestowed your grace, not of those who earned [your] wrath, nor of those who have gone astray.
+</string>
+
+
+    <string name="dua_masura_meaning">Meaning : O Allah, I have greatly wronged myself and no one forgives sins but You. So, grant me forgiveness and have mercy on me. Surely, you are Forgiving, Merciful.</string>
+    <string name="dua_masura_uchcharon">উচ্চারণ : আল্লাহুম্মা ইন্নী যালামতু নাফসী যুল্মান কাসীরাওঁ ওয়ালা ইয়াগ ফিরুয যুনূবা ইল্লা আন্তা; ফাগফির লী মাগফিরাতাম মিন ইন্দিকা ওয়ার হামনী ইন্নাকা আন্তাল গফুরুর রাহীম।</string>
+    <string name="dua_masura_ortho">অর্থ : হে আল্লাহ্‌! আমি আমার নিজ আত্মার উপর বড়ই অত্যাচার করেছি, গুনাহ মাফকারী একমাত্র তুমিই; অতএব তুমি আপনা হইতে আমাকে সম্পূর্ণ ক্ষমা কর এবং আমার প্রতি দয়া কর। তুমি নিশ্চয়ই ক্ষমাশীল দয়ালু।</string>
+    <string name="dua_kunut_arabic">ٌاَللَّهُمَّ إنا نَسْتَعِينُكَ وَنَسْتَغْفِرُكَ وَنُؤْمِنُ بِكَ وَنَتَوَكَّلُ عَلَيْكَ وَنُثْنِئْ عَلَيْكَ الخَيْرَ وَنَشْكُرُكَ وَلَا نَكْفُرُكَ وَنَخْلَعُ وَنَتْرُكُ مَنْ ئَّفْجُرُكَ اَللَّهُمَّ إِيَّاكَ نَعْبُدُ وَلَكَ نُصَلِّئ وَنَسْجُدُ وَإِلَيْكَ نَسْعأئ وَنَحْفِدُ وَنَرْجُو رَحْمَتَكَ وَنَخْشآئ عَذَابَكَ إِنَّ عَذَابَكَ بِالكُفَّارِ مُلْحَقٌ</string>
+    <string name="dua_kunut_pronounce">Pronunciation : Allah humma inna nasta-eenoka wa nastaghfiruka wa nu minu bika wa natawakkalu alaika wa nusni alaikal khair, wa nashkuruka wala nakfuruka wa nakhla-oo wa natruku mai yafjuruka, Allah humma iyyaka na budu wa laka nusalli wa nasjud wa ilaika nas aaa wa nahfizu wa narju rahma taka wa nakhshaa azaabaka inna azaabaka bil kuffari mulhik.</string>
+    <string name="dua_kunut_meaning">Meaning : O Allah! We implore You for help and beg forgiveness of You and believe in You and rely on You and extol You and we are thankful to You and are not ungrateful to You and we alienate and forsake those who disobey You. O Allah! You alone do we worship and for You do we pray and prostrate and we betake to please You and present ourselves for the service in Your cause and we hope for Your mercy and fear Your chastisement. Undoubtedly, Your torment is going to overtake infidels O Allah!</string>
+    <string name="dua_kunut_uchcharon">উচ্চারণ : আল্লাহুম্মা ইন্না নাস্তাঈনুকা, ওয়া নাস্তাগফিরুকা, ওয়া নু মিনু বিকা, ওয়া নাতাওয়াকালু আলাইকা, ওয়া নুছনী আলাইকাল খাইরা, ওয়া নাশকুরুকা, ওয়ালা নাকফুরুকা, ওয়া নাখলাউ, ওয়া নাতরুকু মাঁই ইয়াফজুরুকা। আল্লাহুম্মা ইয়্যাকা না বুদু ওয়া লাকানুসল্লী, ওয়া নাসজুদু, ওয়া ইলাইকা নাস আ, ওয়া নাহফিদু, ওয়া নারজু রাহমাতাকা, ওয়া নাখশা আযাবাকা, ইন্না আযাবাকা বিল কুফ্ফারি মুলহিক্ক।</string>
+    <string name="dua_kunut_ortho">অর্থ : হে আল্লাহ আমরা তোমারই সাহায্য চাই, তোমারই নিকট ক্ষমা চাই, তোমারই প্রতি ঈমান রাখি, তোমারই ওপর ভরসা করি এবং সকল, মঙ্গল তোমারই দিকে ন্যস্ত করি। আমরা তোমার কৃতজ্ঞ হয়ে চলি অকৃতজ্ঞ হই না, হে আল্লাহ আমরা তোমারই দাসত্ব করি তোমারই জন্য নামায পড়ি এবং তোমাকেই সিজদাহ করি, আমরা তোমারই দিকে দৌড়াই ও এগিয়ে চলি। আমরা তোমারই রহমত, আশা করি এবং তোমার আযাবকে ভয় করি আর তোমার আযাবতো কাফেরদের জন্যই র্নিধারিত।</string>
+
+
+</resources>

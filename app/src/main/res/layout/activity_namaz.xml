@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Namaz">
+
+    <TextView
+        android:id="@+id/namaz"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="80dp"
+        android:fontFamily="@font/noto_serif"
+        android:gravity="center"
+        android:text="Salat/নামায"
+        android:textColor="#111111"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/surah"
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="80dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Surah/সূরা"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/namaz"
+        app:layout_constraintStart_toStartOf="@+id/namaz"
+        app:layout_constraintTop_toBottomOf="@+id/namaz" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/tashahhud"
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Tashahhud/তাশাহ্হুদ"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/surah"
+        app:layout_constraintStart_toStartOf="@+id/surah"
+        app:layout_constraintTop_toBottomOf="@+id/surah" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/durood"
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Durood/দুরুদ"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/tashahhud"
+        app:layout_constraintStart_toStartOf="@+id/tashahhud"
+        app:layout_constraintTop_toBottomOf="@+id/tashahhud" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/dua_masura"
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Dua Masura/দোয়া মাসুরা"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/durood"
+        app:layout_constraintStart_toStartOf="@+id/durood"
+        app:layout_constraintTop_toBottomOf="@+id/durood" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/dua_kunut"
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#011F3F"
+        android:fontFamily="@font/artifika"
+        android:text="Dua Kunut/দোয়া কুনুত"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        app:cornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="@+id/dua_masura"
+        app:layout_constraintStart_toStartOf="@+id/dua_masura"
+        app:layout_constraintTop_toBottomOf="@+id/dua_masura" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
